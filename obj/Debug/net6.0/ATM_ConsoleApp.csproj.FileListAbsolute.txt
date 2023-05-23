@@ -1,0 +1,15 @@
+/home/carren/C-SharpProjects/ATM_ConsoleApp/bin/Debug/net6.0/ATM_ConsoleApp
+/home/carren/C-SharpProjects/ATM_ConsoleApp/bin/Debug/net6.0/ATM_ConsoleApp.deps.json
+/home/carren/C-SharpProjects/ATM_ConsoleApp/bin/Debug/net6.0/ATM_ConsoleApp.runtimeconfig.json
+/home/carren/C-SharpProjects/ATM_ConsoleApp/bin/Debug/net6.0/ATM_ConsoleApp.dll
+/home/carren/C-SharpProjects/ATM_ConsoleApp/bin/Debug/net6.0/ref/ATM_ConsoleApp.dll
+/home/carren/C-SharpProjects/ATM_ConsoleApp/bin/Debug/net6.0/ATM_ConsoleApp.pdb
+/home/carren/C-SharpProjects/ATM_ConsoleApp/obj/Debug/net6.0/ATM_ConsoleApp.csproj.AssemblyReference.cache
+/home/carren/C-SharpProjects/ATM_ConsoleApp/obj/Debug/net6.0/ATM_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/carren/C-SharpProjects/ATM_ConsoleApp/obj/Debug/net6.0/ATM_ConsoleApp.AssemblyInfoInputs.cache
+/home/carren/C-SharpProjects/ATM_ConsoleApp/obj/Debug/net6.0/ATM_ConsoleApp.AssemblyInfo.cs
+/home/carren/C-SharpProjects/ATM_ConsoleApp/obj/Debug/net6.0/ATM_ConsoleApp.csproj.CoreCompileInputs.cache
+/home/carren/C-SharpProjects/ATM_ConsoleApp/obj/Debug/net6.0/ATM_ConsoleApp.dll
+/home/carren/C-SharpProjects/ATM_ConsoleApp/obj/Debug/net6.0/ref/ATM_ConsoleApp.dll
+/home/carren/C-SharpProjects/ATM_ConsoleApp/obj/Debug/net6.0/ATM_ConsoleApp.pdb
+/home/carren/C-SharpProjects/ATM_ConsoleApp/obj/Debug/net6.0/ATM_ConsoleApp.genruntimeconfig.cache
